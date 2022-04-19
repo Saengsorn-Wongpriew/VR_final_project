@@ -41,10 +41,4 @@ public class treeGen : MonoBehaviour
             createdTree.transform.localScale = new Vector3(randSize, randSize, randSize);
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
